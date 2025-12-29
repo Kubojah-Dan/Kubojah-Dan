@@ -1,15 +1,12 @@
-# Hi 👋, I'm Kuboja Daniel
+# Hi, I'm Kuboja Daniel
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=A+passionate+Data+Scientist+from+Tanzania;Turning+data+into+insights+%26+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=A+Passionate+Data+Scientist+from+Tanzania;Turning+data+into+insights+%26+solutions" alt="Typing SVG" />
 </div>
-
 <br/>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kubojah-dan&label=Profile%20views&color=0e75b6&style=flat" alt="kubojah-dan" />
 </p>
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kubojah-dan&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=7&row=1" alt="kubojah-dan" />
