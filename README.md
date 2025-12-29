@@ -20,16 +20,20 @@
 <div align="center">
 <table border="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
+      <br/>
       <p align="left">
-        <b>📡 CURRENT_MISSION:</b> <a href="https://github.com/Dharanish99/SIH_Project_Research">Microplastic Detection AI</a><br>
-        <b>🧠 NEURAL_UPGRADES:</b> Java, PowerBI, Deep Learning<br>
-        <b>📍 COORDINATES:</b> Coimbatore, India / Tanzania<br>
-        <b>✉️ ENCRYPTED_MAIL:</b> <a href="mailto:kubodan014@gmail.com">kubodan014@gmail.com</a>
+        <code><b>📡 MISSION  :</b></code> <a href="https://github.com/Dharanish99/SIH_Project_Research">Detection of Microplastics</a><br>
+        <code><b>🧠 UPGRADES :</b></code> Java, PowerBI, Deep Learning<br>
+        <code><b>📍 COORDS   :</b></code> Coimbatore, India / Tanzania<br>
+        <code><b>✉️ UPLINK   :</b></code> <a href="mailto:kubodan014@gmail.com">kubodan014@gmail.com</a>
       </p>
+      <br/>
+      <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F0FF?style=flat-square&logo=target" />
+      <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-green?style=flat-square&logo=shield" />
     </td>
-    <td width="45%" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=kubojah-dan&theme=monokai&no-bg=true&column=3&margin-w=10" width="100%" />
+    <td width="50%" valign="center" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=kubojah-dan&theme=tokyonight&no-bg=true&column=3&margin-w=15" alt="Trophies" />
     </td>
   </tr>
 </table>
@@ -37,16 +41,16 @@
 
 ---
 
-### 📊 DATA ANALYTICS & ANALYTICS
+### 📊 DATA ANALYTICS & STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kubojah-dan&show_icons=true&theme=transparent&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubojah-dan&layout=compact&theme=transparent&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubojah-dan&theme=transparent&stroke=00F0FF&fire=00F0FF&ring=00F0FF&currStreakLabel=00F0FF&hide_border=true" width="90%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kubojah-dan&show_icons=true&theme=tokyonight&hide_border=false&title_color=00F0FF&icon_color=00F0FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubojah-dan&layout=compact&theme=tokyonight&hide_border=false&title_color=00F0FF&icon_color=00F0FF" width="41%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubojah-dan&theme=tokyonight&hide_border=false&stroke=00F0FF&ring=00F0FF&fire=00F0FF" width="90%" />
+</div>
 
 ---
 
@@ -81,9 +85,5 @@
 </p>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kubojah-dan&theme=tokyonight" width="90%" />
-</div>
 
 <p align="right"><i>Last Data Sync: 2025_UPLINK // Terminal Active</i></p>
