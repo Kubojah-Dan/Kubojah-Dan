@@ -123,16 +123,9 @@ Here are some highlights from my portfolio, showcasing my expertise in data scie
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kubojah-dan/kubojah-dan/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
 <br/>
 
 <div align="center">
   <p>Thanks for visiting! Let's connect and build something amazing together. 🚀</p>
 </div>
 
----
-
-*Generated with ❤️ using [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)*
