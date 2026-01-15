@@ -1,27 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-<div align="center">
-  <a href="https://kubojadanportfolio.vercel.app/" target="_blank">
-    <b>🌐 My Portfolio</b>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25"/>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kubojah-dan.kubojah-dan"/>
-</div>
-
----
-
-<div align="center">
 <pre>
  _   _ _     ___ _             _  __     _           _         ____              _      _ 
 | | | (_)   |_ _( )_ __ ___   | |/ /   _| |__   ___ (_) __ _  |  _ \  __ _ _ __ (_) ___| |
@@ -38,19 +15,28 @@
 
 ---
 
-## 🤖 System Identity (Binary Scan)
+<p align="center">
+
+<img src="https://img.shields.io/badge/🤖-SYSTEM_IDENTITY-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SCAN-ACTIVE-00FF88?style=for-the-badge"/>
+
+</p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kubojah-Dan/profile/main/profile_bw.png" 
+       alt="Kuboja Daniel"
+       width="280" />
+  <br/>
+  <sub><b>IDENTITY VERIFIED · NODE: KUBOJA_DANIEL</b></sub>
+</p>
 
 <div align="center">
-<pre>
-011011011011011111111111111111111111111111111111111100111111001111111111111111111111111111
-0011111000000001111100001111110000111111111111111011111111111111111111111111111111111111
-1111000001111111111111100000111111111001111111111111001111111111110000011111111111111111
-00000011011001101100000001101100110110
-</pre>
-
-<b>[ IDENTITY VERIFIED: KUBOJA_DANIEL_NODE ]</b>
-</div>
-
+  <a href="https://kubojadanportfolio.vercel.app/" target="_blank">
+    <b>🌐 My Portfolio</b>
+  </a>
+</div
 ---
 
 ## 🌟 About Me
