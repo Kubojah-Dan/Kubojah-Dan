@@ -36,15 +36,18 @@
   <a href="https://kubojadanportfolio.vercel.app/" target="_blank">
     <b>🌐 My Portfolio</b>
   </a>
-</div
+</div>
+<br/>
+ 
 ---
-
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubojah-dan&label=Profile%20views&color=0e75b6&style=flat" alt="kubojah-dan" /> </p>
+</div>
 
 <p>
    <img src="https://img.shields.io/badge/ABOUT_ME-00FF88?style=for-the-badge"/>
 </p>
-
+<br/>
 
 $${\color{lightgreen}
 \textbf{I am an aspiring Data Scientist passionate about using data to tackle complex issues.}
