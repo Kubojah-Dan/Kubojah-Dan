@@ -1,6 +1,149 @@
-<div align="center"><!-- Cyberpunk Banner --><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3D00ff88%26height%3D240%26section%3Dheader%26text%3DKUBOJA%2520DANIEL%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35%26theme%3Dtokyonight" width="100%" /><!-- The Initializing Terminal Typing Effect --><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D24%26pause%3D1000%26color%3D00ff88%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3D>>+BOOTING+NEURAL_LINK_OS...;>>+INIT_SEQUENCE:++AMAZE_RECRUITERS;>>+SUBJECT:+KUBOJA_DAN;>>+STATUS:+MAXIMUM_IMPACT_ENGAGED;" alt="Typing SVG" /></div><table align="center" border="0" cellpadding="0" cellspacing="0"><tr><td align="center" width="400"><!-- HUD Circular Profile Frame Simulation --><div style="position: relative; width: 320px;"><!-- Circular Scanner Overlay --><img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6ZnR4YmpxZ3B5NHR5bmx6eXo5eXo5eXo5eXo5eXo5eXo5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxyDOGD5S0/giphy.gif"width="320"style="position: absolute; top: 0; left: 0; z-index: 2; opacity: 0.5; mix-blend-mode: screen;" /><!-- Anime Character / Profile Image --><img src="https://www.google.com/search?q=https://api.dicebear.com/7.x/avataaars/svg%3Fseed%3DDaniel%26backgroundColor%3D0d1117%26mood%3Dhappy"width="300"style="border-radius: 50%; border: 5px solid #00ff88; box-shadow: 0 0 30px rgba(0, 255, 136, 0.5); background: #0d1117;" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/AUTH_LEVEL-S_RANK-00ff88%3Fstyle%3Dfor-the-badge%26logo%3Dprobot%26logoColor%3Dblack" /></div></td><td width="600" valign="top"><!-- Green Hacker Terminal --><pre align="left" style="background-color: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #00ff88; box-shadow: 0 0 20px rgba(0, 255, 136, 0.15); font-family: 'Fira Code', monospace; line-height: 1.5;"><font color="#00FF41"><b>[dan@neuro-link:~]$</b></font> cat about_me.txt<font color="#E0E0E0">▶ <b>Location:</b> Tanzania 🌍▶ <b>Specialization:</b> ML, CV, Full-Stack▶ <b>Education:</b> B.E. CSE(AIML) | CGPA: 8.1▶ <b>Mission:</b> Transforming data into insights 💡</font><font color="#00FF41"><b>[dan@neuro-link:~]$</b></font> finger status<font color="#00F0FF"><b>Current Project:</b> Microplastics Detection<b>Uptime:</b> 24/7 Deep Learning 🚀<b>Response:</b> FAST_PRIORITY</font><font color="#00FF41"><b>[dan@neuro-link:~]$</b></font> <blink>_</blink></pre><p align="left"><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dkubojah-dan%26label%3DPROFILE_VIEWS%26color%3D00ff88%26style%3Dflat-square" /></p></td></tr></table>🛰️ <font color="#00ff88">$ current_telemetry --detailed</font><table width="100%"><tr><td width="50%"><h3>🔭 <font color="#00ff88">Active Mission</font></h3><b>Microplastics Detection</b>CV system for environmental sustainability.<img src="https://www.google.com/search?q=https://geps.dev/progress/75%3FdangerColor%3D00ff88%26warningColor%3D00ff88%26successColor%3D00ff88" width="250" /></td><td width="50%"><h3>🌱 <font color="#00ff88">Neural Uplink (Learning)</font></h3><b>Java & PowerBI Mastery</b>Backend robustness & Advanced Viz.<img src="https://www.google.com/search?q=https://geps.dev/progress/60%3FdangerColor%3D00ff88%26warningColor%3D00ff88%26successColor%3D00ff88" width="250" /></td></tr></table>🏆 <font color="#00ff88">$ achievements --unlocked</font><div align="center"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dkubojah-dan%26theme%3Dradical%26no-frame%3Dtrue%26margin-w%3D15%26column%3D7%26rank%3DSSS,SS,S,A" width="100%" /></div><table width="100%"><tr><td><b>🏅 Selfiehack Finalist (2024)</b>Innovation survivor. <font color="#00ff88">+100 XP</font></td><td><b>🥉 Freshathon 3rd Place (2025)</b>Top 3 Finisher (50+ participants). <font color="#00ff88">+150 XP</font></td></tr></table>💻 <font color="#00ff88">$ skills --display_all</font><div align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,pytorch,tensorflow,sklearn,opencv,java,spring,mysql,mongodb,react,fastapi,flask,linux,cpp,js,tailwind,nodejs%26perline%3D9%26theme%3Ddark" /></div><div align="center"><table border="0"><tr><td><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkubojah-dan%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26hide_border%3Dtrue%26title_color%3D00ff88%26icon_color%3D00ff88%26text_color%3Dffffff%26bg_color%3D0d1117" height="170" /></td><td><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkubojah-dan%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26title_color%3D00ff88%26text_color%3Dffffff%26bg_color%3D0d1117" height="170" /></td></tr></table></div>🚀 <font color="#00ff88">$ projects --show_featured</font>MISSION_IDDESCRIPTIONTECH_STACKSTATUS🌊 MicroplasticsAI for sustainable water management.CV PyTorch Python75%🛡️ Scam DefenderReal-time phishing analysis via NLP.Transformers FastAPI100%📱 QR AttendanceSeamless tracking with DB integration.Spring Boot MySQL100%⚓ Titanic MLSurvival rate prediction app.React Scikit-Learn100%📅 <font color="#00ff88">$ learning_roadmap --2024-2025</font>graph LR
-    A[Q1: Python & DSA] --> B[Q2: PowerBI & CV]
-    B --> C{CURRENT: Java & DL}
-    C --> D[Q4: Full-Stack & C++]
-    style C fill:#004d00,stroke:#00ff88,stroke-width:4px
-📡 <font color="#00ff88">$ connect --establish_uplink</font><p align="center"><a href="https://linkedin.com/in/kuboja-mabuba-9202b82b6"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a><a href="https://kaggle.com/kuboja daniel"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3DKaggle%26logoColor%3Dwhite" /></a><a href="https://www.leetcode.com/kuboja_daniel014"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3Dblack" /></a><a href="mailto:kubodan014@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a></p><div align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/trinib/trinib/main/assets/line-neon.gif" width="100%"><img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE5b3o1ZzB4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L4TNHVeOPpM4M/giphy.gif" width="150" /><code>TRANSMISSION_COMPLETE // END_OF_LINE</code><font size="2">Built with 💚 by Kuboja Daniel | 2024-2025</font></div>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+# Hi, I'm Kuboja Daniel
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=A+Passionate+Data+Scientist+from+Tanzania;Turning+data+into+insights+%26+solutions" alt="Typing SVG" />
+</div>
+<br/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kubojah-dan&label=Profile%20views&color=0e75b6&style=flat" alt="kubojah-dan" />
+</p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kubojah-dan&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=7&row=1" alt="kubojah-dan" />
+  </a>
+</p>
+
+---
+
+## 🌟 About Me
+
+I'm a dedicated Data Scientist based in Tanzania with a strong foundation in machine learning, computer vision, and full-stack development. My passion lies at the intersection of technology and real-world impact—whether it's detecting environmental threats like microplastics or building intelligent systems for fraud detection and attendance tracking. I thrive on transforming complex data into actionable insights, and I'm always eager to collaborate on innovative projects.
+
+- 🔭 **Currently working on**: [Detection of Microplastics in Water](https://github.com/Dharanish99/SIH_Project_Research) – Leveraging computer vision and ML to identify and quantify microplastic pollution for sustainable water management.
+- 🌱 **Currently learning**: Java (for robust backend systems) and PowerBI (for advanced data visualization and dashboards).
+- 💡 **Fun fact**: I've tackled everything from QR-based attendance systems to environmental science models, blending data science with practical applications.
+- 📫 **How to reach me**: kubodan014@gmail.com
+
+---
+
+## 🚀 Featured Projects
+
+Here are some highlights from my portfolio, showcasing my expertise in data science, ML, and software engineering:
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Microplastics Detection** | AI-powered system to detect and analyze microplastics in water samples using image processing and deep learning. | Python, OpenCV, PyTorch, TensorFlow | [View Repo](https://github.com/Dharanish99/SIH_Project_Research) |
+| **QR Code Attendance System** | A full-stack application for seamless attendance tracking via QR codes, with database persistence and webcam integration. | Java, Spring Boot, ZXing, MySQL, JavaFX | [View on GitHub](https://github.com/kubojah-dan/attendance-system) |
+| **Scam Defender Backend** | ML-based fraud detection system using NLP and transformers to identify phishing attempts in real-time. | Python, FastAPI, Transformers, PostgreSQL | [View on GitHub](https://github.com/kubojah-dan/scam-defender-backend) |
+| **Titanic Survival Predictor** | Full-stack ML app predicting survival rates with interactive visualizations and API endpoints. | Python, Flask, Scikit-Learn, React | [View on GitHub](https://github.com/kubojah-dan/titanic-fullstack) |
+
+---
+
+## 🛠️ Skills & Tools
+
+### Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</p>
+
+### Data Science & ML
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</p>
+
+### Development & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</p>
+
+### Other
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kubojah-dan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="kubojah-dan" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubojah-dan&layout=compact&theme=radical&langs_count=8" alt="kubojah-dan" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kubojah-dan&theme=radical&hide_border=true" alt="kubojah-dan" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kubojah-dan&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/kuboja-mabuba-9202b82b6" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuboja-mabuba-9202b82b6" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/kuboja daniel" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuboja daniel" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/kuboja_014" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kuboja_014" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/kuboja_daniel014" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kuboja_daniel014" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<br/>
+
+<div align="center">
+  <p>Thanks for visiting! Let's connect and build something amazing together. 🚀</p>
+</div>
+
+
