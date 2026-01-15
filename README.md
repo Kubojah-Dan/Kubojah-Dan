@@ -56,24 +56,6 @@ $${\color{lightgreen}
 curiosity, and impact-driven thinking.}
 }$$
 
-## 🌐 Socials
-
-<p align="center">
-
-<a href="https://www.instagram.com/max_phixer014?igsh=ZWx0MGx6MTZnNDBo">
-  <img src="https://img.shields.io/badge/INSTAGRAM-FF1493?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kuboja-mabuba-9202b82b6">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.facebook.com/kubojah.dan">
-  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF"/>
-</a>
-
-</p>
-
 
 <details open>
 <summary><b>Click to expand ▽</b></summary>
@@ -165,6 +147,24 @@ Here are some highlights from my portfolio, showcasing my expertise in data scie
 </p>
 
 ---
+
+## 🌐 Socials
+
+<p align="center">
+
+<a href="https://www.instagram.com/max_phixer014?igsh=ZWx0MGx6MTZnNDBo">
+  <img src="https://img.shields.io/badge/INSTAGRAM-FF1493?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kuboja-mabuba-9202b82b6">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.facebook.com/kubojah.dan">
+  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF"/>
+</a>
+
+</p>
 
 <div align="center">
   <b>Thanks for visiting — let’s build something impactful 🚀</b>
