@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <div align="center">
@@ -11,11 +11,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25"/>
+</div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kubojah-dan.kubojah-dan&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kubojah-dan.kubojah-dan"/>
 </div>
+
+---
 
 <div align="center">
 <pre>
@@ -29,12 +33,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=A+Passionate+Data+Scientist+from+Tanzania;Turning+data+into+insights+%26+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=A+Passionate+Data+Scientist+from+Tanzania;Turning+data+into+insights+%26+solutions"/>
 </div>
 
-<br/>
+---
 
-## 🤖 System Identity
+## 🤖 System Identity (Binary Scan)
 
 <div align="center">
 <pre>
@@ -49,118 +53,77 @@
 
 ---
 
-## 🌟 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=200&lines=About+Me" alt="About Me" />
+## 🌟 About Me
 
 <details open>
-<summary><b>Click to expand/collapse my story ▽</b></summary>
-<br>
-I'm a dedicated Data Scientist based in Tanzania with a strong foundation in machine learning and computer vision.
+<summary><b>Click to expand ▽</b></summary>
 
-- 🔭 **Currently working on**: [Microplastics Detection](https://github.com/Dharanish99/SIH_Project_Research)
-- 🌱 **Currently learning**: Java and PowerBI
-- 💡 **Fun fact**: I've tackled everything from QR-based attendance systems to environmental models.
+<br/>
+
+- 🔭 **Currently working on**: Microplastics Detection (Computer Vision & Deep Learning)
+- 🌱 **Currently learning**: Java & PowerBI
+- 💡 **Fun fact**: Built systems ranging from QR-based attendance to environmental ML models
+
 </details>
 
 ---
 
-## 🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=300&lines=Featured+Projects" alt="Featured Projects" />
-
-Here are some highlights from my portfolio, showcasing my expertise in data science, ML, and software engineering:
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Microplastics Detection** | AI-powered system to detect and analyze microplastics in water samples using image processing and deep learning. | Python, OpenCV, PyTorch, TensorFlow | [View Repo](https://github.com/Dharanish99/SIH_Project_Research) |
-| **QR Code Attendance System** | A full-stack application for seamless attendance tracking via QR codes, with database persistence and webcam integration. | Java, Spring Boot, ZXing, MySQL, JavaFX | [View on GitHub](https://github.com/kubojah-dan/attendance-system) |
-| **Scam Defender Backend** | ML-based fraud detection system using NLP and transformers to identify phishing attempts in real-time. | Python, FastAPI, Transformers, PostgreSQL | [View on GitHub](https://github.com/kubojah-dan/scam-defender-backend) |
-| **Titanic Survival Predictor** | Full-stack ML app predicting survival rates with interactive visualizations and API endpoints. | Python, Flask, Scikit-Learn, React | [View on GitHub](https://github.com/kubojah-dan/titanic-fullstack) |
+|-------|------------|------------|------|
+| **Microplastics Detection** | AI system for detecting microplastics in water samples | Python, OpenCV, PyTorch, TensorFlow | [View Repo](https://github.com/Dharanish99/SIH_Project_Research) |
+| **QR Attendance System** | Full-stack QR based attendance system | Java, Spring Boot, MySQL, JavaFX | [View Repo](https://github.com/kubojah-dan/attendance-system) |
+| **Scam Defender** | ML-based phishing & fraud detection | Python, FastAPI, Transformers | [View Repo](https://github.com/kubojah-dan/scam-defender-backend) |
+| **Titanic Predictor** | Survival prediction ML web app | Flask, Scikit-Learn, React | [View Repo](https://github.com/kubojah-dan/titanic-fullstack) |
 
 ---
 
-## 🛠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=250&lines=Skills+and+Tools" alt="Skills and Tools" />
+## 🛠️ Skills & Tools
 
-### Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</p>
+**Languages:**  
+Python · Java · JavaScript · C · C++
 
-### Data Science & ML
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</p>
+**ML & Data:**  
+PyTorch · TensorFlow · Scikit-Learn · Pandas · OpenCV
 
-### Development & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</p>
+**Development:**  
+React · Spring Boot · Node.js · MySQL · MongoDB
 
-### Other
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
-</p>
+**Tools:**  
+VS Code · Git · PowerBI · Linux · MATLAB
 
 ---
 
-## 📊 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=250&lines=GitHub+Analytics" alt="GitHub Stats" />
-
+## 📊 GitHub Analytics
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kubojah-dan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="kubojah-dan" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubojah-dan&layout=compact&theme=radical&langs_count=8" alt="kubojah-dan" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kubojah-dan&theme=radical&hide_border=true" alt="kubojah-dan" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kubojah-dan&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubojah-dan&layout=compact&theme=radical"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubojah-dan&theme=radical"/>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kubojah-dan&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kubojah-dan&theme=react-dark"/>
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/kuboja-mabuba-9202b82b6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuboja-mabuba-9202b82b6" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/kuboja daniel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuboja daniel" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/kuboja_014" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kuboja_014" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/kuboja_daniel014" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kuboja_daniel014" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/kuboja-mabuba-9202b82b6"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+  <a href="https://kaggle.com/kuboja daniel"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/></a>
+  <a href="https://www.codechef.com/users/kuboja_014"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40"/></a>
+  <a href="https://www.leetcode.com/kuboja_daniel014"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
 </p>
 
 ---
 
-<br/>
-
 <div align="center">
-  <p>Thanks for visiting! Let's connect and build something amazing together. 🚀</p>
+  <b>Thanks for visiting — let’s build something impactful 🚀</b>
 </div>
 
