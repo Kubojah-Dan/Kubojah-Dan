@@ -2,21 +2,14 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kubojah-dan.kubojah-dan&"  />
 </div>
-
-###
 
 # Hi, I'm Kuboja Daniel
 
@@ -26,30 +19,24 @@
 
 <br/>
 
-## 🖥️ Terminal Profile
-<p align="left">
+## 🤖 System Identity (Binary Scan)
+<p align="center">
 <pre>
-      ____________________________________________________
-     /                                                    \
-    |    ______________________________________________    |
-    |   |                                              |   |
-    |   |  $ whoami                                    |   |
-    |   |  > Kuboja Daniel                             |   |
-    |   |  $ location --current                        |   |
-    |   |  > Tanzania 🇹🇿                               |   |
-    |   |  $ status --working-on                       |   |
-    |   |  > "Detecting Microplastics..."              |   |
-    |   |                                              |   |
-    |   |         01010110 01001001 01000001           |   |
-    |   |         [######..........] 60%               |   |
-    |   |______________________________________________|   |
-    |                                                      |
-     \____________________________________________________/
-            \___________________________________/
-         ___________________________________________
-      _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  `-_
-    _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  `-_
+          0110111101101111
+        01111111111111111111
+       1111111111111111111111
+       1111110011111100111111
+       1111111111111111111111
+       1111110000000000111111
+       1111111000000001111111
+        01111111111111111110
+      011111111111111111111111
+     11111111111111111111111111
+    1111111111111111111111111111
+    0000111111111111111111110000
+    0000111111111111111111110000
 </pre>
+<p align="center"><b>[ IDENTITY VERIFIED: DATA_SCIENTIST_NODE ]</b></p>
 </p>
 
 ---
@@ -59,61 +46,43 @@
 <details open>
 <summary><b>Click to expand/collapse my story ▽</b></summary>
 <br>
-I'm a dedicated Data Scientist based in Tanzania with a strong foundation in machine learning, computer vision, and full-stack development. My passion lies at the intersection of technology and real-world impact—whether it's detecting environmental threats like microplastics or building intelligent systems for fraud detection and attendance tracking. 
+I'm a dedicated Data Scientist based in Tanzania with a strong foundation in machine learning and computer vision.
 
-- 🔭 **Currently working on**: [Detection of Microplastics in Water](https://github.com/Dharanish99/SIH_Project_Research)
+- 🔭 **Currently working on**: [Microplastics Detection](https://github.com/Dharanish99/SIH_Project_Research)
 - 🌱 **Currently learning**: Java and PowerBI
-- 💡 **Fun fact**: I've tackled everything from QR-based attendance systems to environmental science models.
-- 📫 **How to reach me**: kubodan014@gmail.com
+- 💡 **Fun fact**: I've tackled everything from QR-based attendance systems to environmental models.
 </details>
 
 ---
 
 ## 🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=300&lines=Featured+Projects" alt="Featured Projects" />
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <b>🔥 Check out my latest work: Microplastics Detection | Scam Defender | Titanic Predictor | QR Attendance System 🔥</b>
+<marquee behavior="scroll" direction="left" scrollamount="6" style="color: #0EA5E9; font-family: 'Fira Code';">
+  <b>DATA INSIGHTS >>> MACHINE LEARNING >>> COMPUTER VISION >>> FULL-STACK SOLUTIONS >>></b>
 </marquee>
 
 <details>
-<summary><b>View Project Details ▽</b></summary>
+<summary><b>View Project Portfolio ▽</b></summary>
 <br>
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Microplastics Detection** | AI-powered system to detect and analyze microplastics. | Python, PyTorch | [Repo](https://github.com/Dharanish99/SIH_Project_Research) |
-| **QR Attendance** | Full-stack app for seamless tracking via QR codes. | Java, Spring Boot | [Repo](https://github.com/kubojah-dan/attendance-system) |
-| **Scam Defender** | ML-based fraud detection using NLP/Transformers. | FastAPI, PostgreSQL | [Repo](https://github.com/kubojah-dan/scam-defender-backend) |
-| **Titanic Predictor** | Full-stack ML app predicting survival rates. | Flask, React | [Repo](https://github.com/kubojah-dan/titanic-fullstack) |
+| **Microplastics** | Deep learning for water sample analysis. | Python, PyTorch | [Repo](https://github.com/Dharanish99/SIH_Project_Research) |
+| **Scam Defender** | Fraud detection using NLP/Transformers. | FastAPI, PostgreSQL | [Repo](https://github.com/kubojah-dan/scam-defender-backend) |
 
 </details>
 
 ---
 
-## 🛠️ Skills & Tools
-
-### Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</p>
-
-### Data Science & ML
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=250&lines=GitHub+Analytics" alt="GitHub Stats" />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kubojah-dan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubojah-dan&layout=compact&theme=radical&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kubojah-dan&show_icons=true&theme=radical&count_private=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubojah-dan&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=kubojah-dan&theme=radical" />
 </div>
 
 ---
@@ -128,8 +97,3 @@ I'm a dedicated Data Scientist based in Tanzania with a strong foundation in mac
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
   </a>
 </p>
-
-<div align="center">
-  <p>Thanks for visiting! Let's build something amazing. 🚀</p>
-</div>
-
