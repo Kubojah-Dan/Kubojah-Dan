@@ -11,12 +11,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kubojah-dan.kubojah-dan&"  />
 </div>
 
-#    _   _ _     ___ _             _  __     _           _         ____              _      _ 
+<div align="center">
+<pre>
+ _   _ _     ___ _             _  __     _           _         ____              _      _ 
 | | | (_)   |_ _( )_ __ ___   | |/ /   _| |__   ___ (_) __ _  |  _ \  __ _ _ __ (_) ___| |
 | |_| | |    | ||/| '_ ` _ \  | ' / | | | '_ \ / _ \| |/ _` | | | | |/ _` | '_ \| |/ _ \ |
 |  _  | |_   | |  | | | | | | | . \ |_| | |_) | (_) | | (_| | | |_| | (_| | | | | |  __/ |
 |_| |_|_( ) |___| |_| |_| |_| |_|\_\__,_|_.__/ \___// |\__,_| |____/ \__,_|_| |_|_|\___|_|
-        |/                                        |__/                                                               
+        |/                                        |__/                                    
+</pre>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=A+Passionate+Data+Scientist+from+Tanzania;Turning+data+into+insights+%26+solutions" alt="Typing SVG" />
