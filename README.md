@@ -39,7 +39,25 @@
 </div
 ---
 
-## 🌟 About Me
+<p>
+   <img src="https://img.shields.io/badge/ABOUT_ME-00FF88?style=for-the-badge"/>
+</p>
+
+
+$${\color{lightgreen}
+\textbf{I am an aspiring Data Scientist passionate about using data to tackle complex issues.}
+}$$
+$${\color{lightgreen}
+\textbf{I have a strong analytical mindset and skills in data science, machine learning, and programming.
+I'm dedicated to continuous learning and professional growth.}
+}$$
+$${\color{lightgreen}
+\textbf{I aim to bring my expertise to dynamic teams and take on challenging projects with determination,
+curiosity, and impact-driven thinking.}
+}$$
+
+
+
 
 <details open>
 <summary><b>Click to expand ▽</b></summary>
@@ -54,7 +72,8 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=300&lines=Featured+Projects" alt="Featured Projects" />
+Here are some highlights from my portfolio, showcasing my expertise in data science, ML, and software engineering:
 
 | Project | Description | Tech Stack | Link |
 |-------|------------|------------|------|
@@ -65,28 +84,50 @@
 
 ---
 
-## 🛠️ Skills & Tools
 
-**Languages:**  
-Python · Java · JavaScript · C · C++
+## 🛠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=250&lines=Skills+and+Tools" alt="Skills and Tools" />
 
-**ML & Data:**  
-PyTorch · TensorFlow · Scikit-Learn · Pandas · OpenCV
+### Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</p>
 
-**Development:**  
-React · Spring Boot · Node.js · MySQL · MongoDB
+### Data Science & ML
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</p>
 
-**Tools:**  
-VS Code · Git · PowerBI · Linux · MATLAB
+### Development & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</p>
+
+### Other
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kubojah-dan&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubojah-dan&layout=compact&theme=radical"/>
-</div>
+## 📊 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=250&lines=GitHub+Analytics" alt="GitHub Stats" />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubojah-dan&theme=radical"/>
