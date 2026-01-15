@@ -1,1 +1,622 @@
-<div align="center"><!-- Cyberpunk Banner --><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3Dauto%26height%3D200%26section%3Dheader%26text%3DKUBOJA%2520DANIEL%26fontSize%3D70%26animation%3DfadeIn%26fontAlignY%3D35%26theme%3Dtokyonight" width="100%" /><!-- Animated Typing Interface --><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D25%26pause%3D1000%26color%3D00F0FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3D>>+INITIALIZING+DATA_CORE...;>>+KUBOJA_DAN+IDENTIFIED;>>+STATUS:+HIGH_POTENTIAL;>>+LOCATION:+11.0183°+N;" alt="Typing SVG" /></div><table align="center" border="0"><tr><td align="center" width="45%"><!-- HUD Profile Simulation with Anime/Cyber Aesthetic --><div style="position: relative;"><img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6ZnR4YmpxZ3B5NHR5bmx6eXo5eXo5eXo5eXo5eXo5eXo5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxyDOGD5S0/giphy.gif" width="320" style="border-radius: 50%; border: 5px solid #00F0FF; box-shadow: 0 0 30px #00F0FF;" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/SUBJECT-KUBOJA__DAN-00F0FF%3Fstyle%3Dfor-the-badge%26logo%3Dghost%26logoColor%3Dblack" /></div></td><td width="55%"><h2 align="left"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> <font color="#00F0FF">Terminal_Uplink</font> </h2><pre align="left" style="background-color: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d;"><font color="#00FF41"><b>[dan@neuro-link:~]$</b></font> run bio_scan.sh<font color="#E0E0E0"><b>NAME:</b> Kuboja Daniel<b>CLASS:</b> Data Scientist | AI Researcher<b>FIELD:</b> Computer Vision & Deep Learning<b>PASSION:</b> Sustainability via Intelligence</font><font color="#00FF41"><b>[dan@neuro-link:~]$</b></font> cat current_ops.txt<font color="#00F0FF">●</font> Researching Microplastics Detection<font color="#00F0FF">●</font> Refining Scam Defender Logic<font color="#00F0FF">●</font> Mastering Spring Boot Ecosystem</pre></td></tr></table>🛰️ <font color="#00F0FF">Neural Network Capabilities (Tech Stack)</font><div align="center"><!-- Dynamic Skill Grid --><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,pytorch,tensorflow,sklearn,opencv,java,spring,mysql,mongodb,react,fastapi,flask,linux,cpp%26perline%3D7%26theme%3Ddark" /></div><div align="center"><!-- Progress Bars --><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkubojah-dan%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D00F0FF" height="200" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkubojah-dan%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D00F0FF" height="200" /></div>🧪 <font color="#00F0FF">R&D Projects (Active Archive)</font><div align="center"><table border="0"><tr><td><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/trinib/trinib/main/assets/line-neon.gif" width="100%"><b>🌊 MICROPLASTICS DETECTION</b><i>Leveraging CV to quantify pollution in water.</i><code>Deep Learning</code> <code>OpenCV</code> <code>Python</code><a href="https://github.com/Dharanish99/SIH_Project_Research"><b>[VIEW_SOURCE]</b></a></td><td><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/trinib/trinib/main/assets/line-neon.gif" width="100%"><b>🛡️ SCAM DEFENDER</b><i>Real-time phishing analysis with Transformers.</i><code>NLP</code> <code>FastAPI</code> <code>PostgreSQL</code><a href="https://github.com/kubojah-dan/scam-defender-backend"><b>[VIEW_SOURCE]</b></a></td></tr></table></div>📈 <font color="#00F0FF">Activity Telemetry</font><div align="center"><img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dkubojah-dan%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue%26color%3D00F0FF" width="100%" /></div><div align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkubojah-dan%26theme%3Dtokyonight%26hide_border%3Dtrue" width="49%" /><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dkubojah-dan%26theme%3Dtokyonight%26no-frame%3Dtrue%26margin-w%3D15" width="49%" /></div>📡 <font color="#00F0FF">Establish Linkage</font><p align="center"><a href="https://linkedin.com/in/kuboja-mabuba-9202b82b6"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a><a href="mailto:kubodan014@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a><a href="https://kaggle.com/kuboja daniel"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3DKaggle%26logoColor%3Dwhite" /></a></p><div align="center"><!-- Animated Footer --><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/trinib/trinib/main/assets/line-neon.gif" width="100%"><p align="center"><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dkubojah-dan%26label%3DDATA_UPLINK_VIEWS%26color%3D00F0FF%26style%3Dflat-square" /></p><img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE5b3o1ZzB4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L4TNHVeOPpM4M/giphy.gif" width="150" /><code>ERROR 404: WEAKNESS_NOT_FOUND</code></div>
+# ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hi, I'm Kuboja Daniel
+
+### $ init\_sequence --target="amaze\_recruiters" --mode="maximum\_impact"
+
+* * *
+
+  
+
+  
+
+  
+
+```
+<!-- Anime/Character Image -->
+<img src="https://i.pinimg.com/originals/7f/c2/a3/7fc2a3f8d7c5e5f8e6b5c5d5e5f8e6b5.jpg" 
+     alt="Kuboja Daniel" 
+     style="width: 100%; height: 100%; object-fit: cover; filter: grayscale(30%); transition: all 0.5s ease;"
+     onmouseover="this.style.filter='grayscale(0%)'; this.style.transform='scale(1.1)';"
+     onmouseout="this.style.filter='grayscale(30%)'; this.style.transform='scale(1)';"
+/>
+
+<!-- Scanner Effect -->
+<div style="position: absolute; inset: 0; background: linear-gradient(transparent, rgba(0, 255, 136, 0.2), transparent); animation: scan 3s linear infinite;"></div>
+<div style="position: absolute; inset: 0; background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 136, 0.1) 3px); pointer-events: none;"></div>
+```
+
+​ SYSTEM ONLINE
+
+LOCATION: TANZANIA
+
+root@kuboja:~$ cat about\_me.txt
+
+▶ Passionate Data Scientist from Tanzania 🌍  
+▶ Transforming data into actionable insights 💡  
+▶ Specializing in ML, CV, and Full-Stack Development 🚀  
+▶ B.E. CSE(AIML) | CGPA: 8.1 | Sri Eshwar College of Engineering 🎓
+
+\_
+
+![Profile Views](https://komarev.com/ghpvc/?username=kubojah-dan&label=Profile%20Views&color=00ff88&style=flat-square)
+
+* * *
+
+## 📊 $ current\_status --detailed
+
+  
+
+### 🔭 CURRENT PROJECT
+
+**Microplastics Detection**  
+AI-powered system using Computer Vision & Deep Learning to detect and analyze microplastics in water samples for environmental sustainability.
+
+  
+
+75%
+
+  
+
+### 🌱 LEARNING
+
+**Java & PowerBI**  
+Expanding backend capabilities with Java and mastering data visualization with PowerBI for advanced dashboards.
+
+  
+
+60%
+
+  
+
+### 💡 FUN FACT
+
+Built everything from QR-based attendance systems to environmental ML models, successfully blending data science with real-world applications.
+
+12+ Projects 5+ Certifications
+
+* * *
+
+## 🏆 $ achievement\_unlocked --show\_all
+
+🏅
+
+#### Selfiehack Finalist
+
+2024 • Innovation Competition
+
+Recognized as finalist in a multi-round hackathon focusing on problem-solving and innovation.
+
++100 XP • Multi-round survivor
+
+🥉
+
+#### Freshathon 3rd Place
+
+2025 • Project Competition
+
+Achieved third place with an outstanding project in a competitive event among 50+ participants.
+
++150 XP • Top 3 finisher
+
+#### 📊 Coding Statistics
+
+```
+<div style="margin-bottom: 12px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 13px;">LeetCode Problems</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 13px;">300+ solved</span>
+  </div>
+  <div style="width: 100%; height: 6px; background: rgba(0, 255, 136, 0.2); border-radius: 3px;">
+    <div style="width: 70%; height: 100%; background: #00ff88; border-radius: 3px;"></div>
+  </div>
+</div>
+
+<div style="margin-bottom: 12px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 13px;">CodeChef Problems</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 13px;">1000+ solved</span>
+  </div>
+  <div style="width: 100%; height: 6px; background: rgba(0, 255, 136, 0.2); border-radius: 3px;">
+    <div style="width: 90%; height: 100%; background: #00ff88; border-radius: 3px;"></div>
+  </div>
+</div>
+
+<div style="margin-bottom: 12px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 13px;">Skill Rack Certificates</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 13px;">12 earned</span>
+  </div>
+  <div style="width: 100%; height: 6px; background: rgba(0, 255, 136, 0.2); border-radius: 3px;">
+    <div style="width: 85%; height: 100%; background: #00ff88; border-radius: 3px;"></div>
+  </div>
+</div>
+
+<div style="margin-top: 15px; padding-top: 15px; border-top: 1px solid rgba(0, 255, 136, 0.3);">
+  <div style="display: flex; justify-content: space-between; font-family: 'Courier New', monospace; font-size: 12px; color: #00cc66;">
+    <span>Global Rank: 186,793</span>
+    <span>Total: 1300+ problems</span>
+  </div>
+</div>
+```
+
+* * *
+
+## 🚀 $ projects --show\_featured
+
+root@kuboja:~$ ls -la featured\_projects/
+
+```
+    <tr style="border-bottom: 1px solid rgba(0, 255, 136, 0.2); transition: all 0.3s ease;" onmouseover="this.style.background='rgba(0, 255, 136, 0.1)';" onmouseout="this.style.background='transparent';">
+      <td style="padding: 15px;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <span style="font-size: 24px;">📱</span>
+          <div>
+            <a href="https://github.com/kubojah-dan/attendance-system" target="_blank" style="color: #00ff88; text-decoration: none; font-weight: bold;">QR Attendance System</a>
+            <div style="font-size: 11px; color: #00cc66; font-family: 'Courier New', monospace;">[FULL-STACK]</div>
+          </div>
+        </div>
+      </td>
+      <td style="padding: 15px; font-size: 13px;">
+        Full-stack application for seamless attendance tracking via QR codes with database persistence and webcam integration.
+      </td>
+      <td style="padding: 15px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">Java</span>
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">Spring Boot</span>
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">MySQL</span>
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">JavaFX</span>
+        </div>
+      </td>
+      <td style="text-align: center; padding: 15px;">
+        <span style="background: #00cc66; color: #000; padding: 5px 15px; border-radius: 20px; font-size: 11px; font-weight: bold;">100% Complete</span>
+      </td>
+    </tr>
+    
+    <tr style="border-bottom: 1px solid rgba(0, 255, 136, 0.2); transition: all 0.3s ease;" onmouseover="this.style.background='rgba(0, 255, 136, 0.1)';" onmouseout="this.style.background='transparent';">
+      <td style="padding: 15px;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <span style="font-size: 24px;">🛡️</span>
+          <div>
+            <a href="https://github.com/kubojah-dan/scam-defender-backend" target="_blank" style="color: #00ff88; text-decoration: none; font-weight: bold;">Scam Defender</a>
+            <div style="font-size: 11px; color: #00cc66; font-family: 'Courier New', monospace;">[ML_SECURITY]</div>
+          </div>
+        </div>
+      </td>
+      <td style="padding: 15px; font-size: 13px;">
+        ML-based fraud detection system using NLP and transformers to identify phishing attempts in real-time.
+      </td>
+      <td style="padding: 15px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">Python</span>
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">FastAPI</span>
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">Transformers</span>
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">PostgreSQL</span>
+        </div>
+      </td>
+      <td style="text-align: center; padding: 15px;">
+        <span style="background: #00cc66; color: #000; padding: 5px 15px; border-radius: 20px; font-size: 11px; font-weight: bold;">100% Complete</span>
+      </td>
+    </tr>
+    
+    <tr style="transition: all 0.3s ease;" onmouseover="this.style.background='rgba(0, 255, 136, 0.1)';" onmouseout="this.style.background='transparent';">
+      <td style="padding: 15px;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <span style="font-size: 24px;">⚓</span>
+          <div>
+            <a href="https://github.com/kubojah-dan/titanic-fullstack" target="_blank" style="color: #00ff88; text-decoration: none; font-weight: bold;">Titanic Predictor</a>
+            <div style="font-size: 11px; color: #00cc66; font-family: 'Courier New', monospace;">[ML_APP]</div>
+          </div>
+        </div>
+      </td>
+      <td style="padding: 15px; font-size: 13px;">
+        Full-stack ML application predicting survival rates with interactive visualizations and API endpoints.
+      </td>
+      <td style="padding: 15px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">Python</span>
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">Flask</span>
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">Scikit-Learn</span>
+          <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 3px 8px; border-radius: 4px; font-size: 11px;">React</span>
+        </div>
+      </td>
+      <td style="text-align: center; padding: 15px;">
+        <span style="background: #00cc66; color: #000; padding: 5px 15px; border-radius: 20px; font-size: 11px; font-weight: bold;">100% Complete</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+```
+
+* * *
+
+## 💻 $ skills --display\_all
+
+### 🐍 Programming Languages
+
+```
+<div style="margin-bottom: 15px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 14px;">Python</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px;">95%</span>
+  </div>
+  <div style="width: 100%; height: 8px; background: rgba(0, 255, 136, 0.2); border-radius: 4px; overflow: hidden;">
+    <div style="width: 95%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); animation: skillProgress 2s ease-out;"></div>
+  </div>
+</div>
+
+<div style="margin-bottom: 15px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 14px;">Java</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px;">75%</span>
+  </div>
+  <div style="width: 100%; height: 8px; background: rgba(0, 255, 136, 0.2); border-radius: 4px; overflow: hidden;">
+    <div style="width: 75%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); animation: skillProgress 2s ease-out;"></div>
+  </div>
+</div>
+
+<div style="margin-bottom: 15px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 14px;">C++</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px;">80%</span>
+  </div>
+  <div style="width: 100%; height: 8px; background: rgba(0, 255, 136, 0.2); border-radius: 4px; overflow: hidden;">
+    <div style="width: 80%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); animation: skillProgress 2s ease-out;"></div>
+  </div>
+</div>
+
+<div style="margin-bottom: 15px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 14px;">JavaScript</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px;">70%</span>
+  </div>
+  <div style="width: 100%; height: 8px; background: rgba(0, 255, 136, 0.2); border-radius: 4px; overflow: hidden;">
+    <div style="width: 70%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); animation: skillProgress 2s ease-out;"></div>
+  </div>
+</div>
+
+<div>
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 14px;">C</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px;">85%</span>
+  </div>
+  <div style="width: 100%; height: 8px; background: rgba(0, 255, 136, 0.2); border-radius: 4px; overflow: hidden;">
+    <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); animation: skillProgress 2s ease-out;"></div>
+  </div>
+</div>
+```
+
+### 🤖 Data Science & ML
+
+```
+<div style="margin-bottom: 15px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 14px;">PyTorch</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px;">85%</span>
+  </div>
+  <div style="width: 100%; height: 8px; background: rgba(0, 255, 136, 0.2); border-radius: 4px; overflow: hidden;">
+    <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); animation: skillProgress 2s ease-out;"></div>
+  </div>
+</div>
+
+<div style="margin-bottom: 15px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 14px;">TensorFlow</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px;">80%</span>
+  </div>
+  <div style="width: 100%; height: 8px; background: rgba(0, 255, 136, 0.2); border-radius: 4px; overflow: hidden;">
+    <div style="width: 80%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); animation: skillProgress 2s ease-out;"></div>
+  </div>
+</div>
+
+<div style="margin-bottom: 15px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 14px;">Scikit-Learn</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px;">90%</span>
+  </div>
+  <div style="width: 100%; height: 8px; background: rgba(0, 255, 136, 0.2); border-radius: 4px; overflow: hidden;">
+    <div style="width: 90%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); animation: skillProgress 2s ease-out;"></div>
+  </div>
+</div>
+
+<div style="margin-bottom: 15px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 14px;">Pandas</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px;">92%</span>
+  </div>
+  <div style="width: 100%; height: 8px; background: rgba(0, 255, 136, 0.2); border-radius: 4px; overflow: hidden;">
+    <div style="width: 92%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); animation: skillProgress 2s ease-out;"></div>
+  </div>
+</div>
+
+<div>
+  <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <span style="color: #ffffff; font-size: 14px;">OpenCV</span>
+    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px;">75%</span>
+  </div>
+  <div style="width: 100%; height: 8px; background: rgba(0, 255, 136, 0.2); border-radius: 4px; overflow: hidden;">
+    <div style="width: 75%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); animation: skillProgress 2s ease-out;"></div>
+  </div>
+</div>
+```
+
+### 🛠️ Development & Tools
+
+```
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 8px 15px; border-radius: 20px; font-size: 13px; border: 1px solid rgba(0, 255, 136, 0.3);">React</span>
+  <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 8px 15px; border-radius: 20px; font-size: 13px; border: 1px solid rgba(0, 255, 136, 0.3);">Spring Boot</span>
+  <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 8px 15px; border-radius: 20px; font-size: 13px; border: 1px solid rgba(0, 255, 136, 0.3);">MySQL</span>
+  <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 8px 15px; border-radius: 20px; font-size: 13px; border: 1px solid rgba(0, 255, 136, 0.3);">MongoDB</span>
+  <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 8px 15px; border-radius: 20px; font-size: 13px; border: 1px solid rgba(0, 255, 136, 0.3);">Node.js</span>
+  <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 8px 15px; border-radius: 20px; font-size: 13px; border: 1px solid rgba(0, 255, 136, 0.3);">HTML5</span>
+  <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 8px 15px; border-radius: 20px; font-size: 13px; border: 1px solid rgba(0, 255, 136, 0.3);">CSS3</span>
+  <span style="background: rgba(0, 255, 136, 0.2); color: #00ff88; padding: 8px 15px; border-radius: 20px; font-size: 13px; border: 1px solid rgba(0, 255, 136, 0.3);">Tailwind</span>
+</div>
+
+<div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid rgba(0, 255, 136, 0.2);">
+  <h4 style="color: #00cc66; margin: 0 0 15px 0; font-family: 'Courier New', monospace; font-size: 13px;">⚡ IDE & Tools</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <span style="background: rgba(0, 255, 136, 0.15); color: #ffffff; padding: 6px 12px; border-radius: 5px; font-size: 12px; font-family: 'Courier New', monospace;">VS Code</span>
+    <span style="background: rgba(0, 255, 136, 0.15); color: #ffffff; padding: 6px 12px; border-radius: 5px; font-size: 12px; font-family: 'Courier New', monospace;">PyCharm</span>
+    <span style="background: rgba(0, 255, 136, 0.15); color: #ffffff; padding: 6px 12px; border-radius: 5px; font-size: 12px; font-family: 'Courier New', monospace;">IntelliJ IDEA</span>
+    <span style="background: rgba(0, 255, 136, 0.15); color: #ffffff; padding: 6px 12px; border-radius: 5px; font-size: 12px; font-family: 'Courier New', monospace;">Jupyter</span>
+    <span style="background: rgba(0, 255, 136, 0.15); color: #ffffff; padding: 6px 12px; border-radius: 5px; font-size: 12px; font-family: 'Courier New', monospace;">Git/GitHub</span>
+    <span style="background: rgba(0, 255, 136, 0.15); color: #ffffff; padding: 6px 12px; border-radius: 5px; font-size: 12px; font-family: 'Courier New', monospace;">PowerBI</span>
+    <span style="background: rgba(0, 255, 136, 0.15); color: #ffffff; padding: 6px 12px; border-radius: 5px; font-size: 12px; font-family: 'Courier New', monospace;">Matlab</span>
+  </div>
+</div>
+```
+
+* * *
+
+## 📈 $ github\_stats --show\_all
+
+```
+<!-- GitHub Stats Card -->
+<div style="background: #0a0a0a; border: 2px solid #00ff88; border-radius: 10px; padding: 20px; box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);">
+  <h4 style="color: #00ff88; margin: 0 0 15px 0; font-family: 'Courier New', monospace;">📊 GitHub Statistics</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=kubojah-dan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=00ff88" alt="GitHub Stats" style="border-radius: 5px;"/>
+</div>
+
+<!-- Top Languages -->
+<div style="background: #0a0a0a; border: 2px solid #00ff88; border-radius: 10px; padding: 20px; box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);">
+  <h4 style="color: #00ff88; margin: 0 0 15px 0; font-family: 'Courier New', monospace;">🔥 Top Languages</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubojah-dan&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=00ff88&text_color=ffffff&border_color=00ff88" alt="Top Languages" style="border-radius: 5px;"/>
+</div>
+```
+
+```
+<!-- Streak Stats -->
+<div style="background: #0a0a0a; border: 2px solid #00ff88; border-radius: 10px; padding: 20px; box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);">
+  <h4 style="color: #00ff88; margin: 0 0 15px 0; font-family: 'Courier New', monospace;">⚡ Contribution Streak</h4>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubojah-dan&theme=radical&hide_border=true&background=0a0a0a&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideNums=ffffff&sideLabels=00cc66&dates=ffffff" alt="Streak Stats" style="border-radius: 5px;"/>
+</div>
+
+<!-- Activity Graph -->
+<div style="background: #0a0a0a; border: 2px solid #00ff88; border-radius: 10px; padding: 20px; box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);">
+  <h4 style="color: #00ff88; margin: 0 0 15px 0; font-family: 'Courier New', monospace;">📈 Activity Graph</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kubojah-dan&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=00ff88&line=00ff88&point=ffffff" alt="Activity Graph" style="border-radius: 5px;"/>
+</div>
+```
+
+#### 🏆 Trophy Case
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kubojah-dan&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=7&row=1&title=00ff88&text=ffffff&icon=00ff88&bg=0a0a0a&border=00ff88)
+
+* * *
+
+## 📜 $ certifications --list\_all
+
+root@kuboja:~$ certificates --display
+
+```
+<div style="background: rgba(0, 40, 0, 0.5); border-left: 4px solid #00ff88; padding: 15px; border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateX(10px)'; this.style.background='rgba(0, 60, 0, 0.7)';" onmouseout="this.style.transform='translateX(0)'; this.style.background='rgba(0, 40, 0, 0.5)';">
+  <div style="display: flex; justify-content: space-between; align-items: start;">
+    <div>
+      <h5 style="color: #00ff88; margin: 0 0 5px 0; font-size: 14px;">Python Learning Course</h5>
+      <p style="color: #00cc66; margin: 0; font-size: 11px; font-family: 'Courier New', monospace;">LinkedIn • 2024</p>
+    </div>
+    <span style="font-size: 20px;">📜</span>
+  </div>
+</div>
+
+<div style="background: rgba(0, 40, 0, 0.5); border-left: 4px solid #00ff88; padding: 15px; border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateX(10px)'; this.style.background='rgba(0, 60, 0, 0.7)';" onmouseout="this.style.transform='translateX(0)'; this.style.background='rgba(0, 40, 0, 0.5)';">
+  <div style="display: flex; justify-content: space-between; align-items: start;">
+    <div>
+      <h5 style="color: #00ff88; margin: 0 0 5px 0; font-size: 14px;">Data Visualization in PowerBI</h5>
+      <p style="color: #00cc66; margin: 0; font-size: 11px; font-family: 'Courier New', monospace;">LinkedIn • 2024</p>
+    </div>
+    <span style="font-size: 20px;">📊</span>
+  </div>
+</div>
+
+<div style="background: rgba(0, 40, 0, 0.5); border-left: 4px solid #00ff88; padding: 15px; border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateX(10px)'; this.style.background='rgba(0, 60, 0, 0.7)';" onmouseout="this.style.transform='translateX(0)'; this.style.background='rgba(0, 40, 0, 0.5)';">
+  <div style="display: flex; justify-content: space-between; align-items: start;">
+    <div>
+      <h5 style="color: #00ff88; margin: 0 0 5px 0; font-size: 14px;">C Programming</h5>
+      <p style="color: #00cc66; margin: 0; font-size: 11px; font-family: 'Courier New', monospace;">IIT Bombay • 2024</p>
+    </div>
+    <span style="font-size: 20px;">💻</span>
+  </div>
+</div>
+
+<div style="background: rgba(0, 40, 0, 0.5); border-left: 4px solid #00ff88; padding: 15px; border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateX(10px)'; this.style.background='rgba(0, 60, 0, 0.7)';" onmouseout="this.style.transform='translateX(0)'; this.style.background='rgba(0, 40, 0, 0.5)';">
+  <div style="display: flex; justify-content: space-between; align-items: start;">
+    <div>
+      <h5 style="color: #00ff88; margin: 0 0 5px 0; font-size: 14px;">DSA in C & C++</h5>
+      <p style="color: #00cc66; margin: 0; font-size: 11px; font-family: 'Courier New', monospace;">Udemy • 2025</p>
+    </div>
+    <span style="font-size: 20px;">🔧</span>
+  </div>
+</div>
+
+<div style="background: rgba(0, 40, 0, 0.5); border-left: 4px solid #00ff88; padding: 15px; border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateX(10px)'; this.style.background='rgba(0, 60, 0, 0.7)';" onmouseout="this.style.transform='translateX(0)'; this.style.background='rgba(0, 40, 0, 0.5)';">
+  <div style="display: flex; justify-content: space-between; align-items: start;">
+    <div>
+      <h5 style="color: #00ff88; margin: 0 0 5px 0; font-size: 14px;">Python Libraries for Data Science</h5>
+      <p style="color: #00cc66; margin: 0; font-size: 11px; font-family: 'Courier New', monospace;">SimpliLearn • 2025</p>
+    </div>
+    <span style="font-size: 20px;">🐍</span>
+  </div>
+</div>
+
+<div style="background: rgba(0, 40, 0, 0.5); border-left: 4px solid #00ff88; padding: 15px; border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateX(10px)'; this.style.background='rgba(0, 60, 0, 0.7)';" onmouseout="this.style.transform='translateX(0)'; this.style.background='rgba(0, 40, 0, 0.5)';">
+  <div style="display: flex; justify-content: space-between; align-items: start;">
+    <div>
+      <h5 style="color: #00ff88; margin: 0 0 5px 0; font-size: 14px;">IEEE Webinar Participation</h5>
+      <p style="color: #00cc66; margin: 0; font-size: 11px; font-family: 'Courier New', monospace;">IEEE • 2025</p>
+    </div>
+    <span style="font-size: 20px;">🎓</span>
+  </div>
+</div>
+```
+
+* * *
+
+## 🎯 $ learning\_roadmap --current
+
+  
+
+  
+
+### 🗺️ Learning Roadmap 2024-2025
+
+```
+<!-- Q1 2024 -->
+<div style="background: rgba(0, 0, 0, 0.5); border: 1px solid rgba(0, 255, 136, 0.3); border-radius: 10px; padding: 20px; position: relative;">
+  <div style="position: absolute; top: -10px; left: 20px; background: #00ff88; color: #000; padding: 5px 15px; border-radius: 20px; font-size: 12px; font-weight: bold; font-family: 'Courier New', monospace;">✅ COMPLETED</div>
+  <h4 style="color: #00ff88; margin: 15px 0 10px 0; font-size: 16px;">Q1 2024</h4>
+  <ul style="color: #ffffff; margin: 0; padding-left: 20px; font-size: 13px; line-height: 1.8;">
+    <li>Python Fundamentals</li>
+    <li>Data Structures in C</li>
+    <li>Basic ML Concepts</li>
+    <li>LinkedIn Python Certification</li>
+  </ul>
+</div>
+
+<!-- Q2 2024 -->
+<div style="background: rgba(0, 0, 0, 0.5); border: 1px solid rgba(0, 255, 136, 0.3); border-radius: 10px; padding: 20px; position: relative;">
+  <div style="position: absolute; top: -10px; left: 20px; background: #00ff88; color: #000; padding: 5px 15px; border-radius: 20px; font-size: 12px; font-weight: bold; font-family: 'Courier New', monospace;">✅ COMPLETED</div>
+  <h4 style="color: #00ff88; margin: 15px 0 10px 0; font-size: 16px;">Q2 2024</h4>
+  <ul style="color: #ffffff; margin: 0; padding-left: 20px; font-size: 13px; line-height: 1.8;">
+    <li>PowerBI Data Visualization</li>
+    <li>C Programming (IIT Bombay)</li>
+    <li>Computer Vision Basics</li>
+    <li>Selfiehack Hackathon</li>
+  </ul>
+</div>
+
+<!-- Q3 2024 -->
+<div style="background: rgba(0, 0, 0, 0.5); border: 1px solid rgba(0, 255, 136, 0.3); border-radius: 10px; padding: 20px; position: relative;">
+  <div style="position: absolute; top: -10px; left: 20px; background: #00cc66; color: #000; padding: 5px 15px; border-radius: 20px; font-size: 12px; font-weight: bold; font-family: 'Courier New', monospace;">🔄 IN PROGRESS</div>
+  <h4 style="color: #00ff88; margin: 15px 0 10px 0; font-size: 16px;">Q3 2024</h4>
+  <ul style="color: #ffffff; margin: 0; padding-left: 20px; font-size: 13px; line-height: 1.8;">
+    <li>Advanced Java Programming</li>
+    <li>Deep Learning with PyTorch</li>
+    <li>Spring Boot Framework</li>
+    <li>Microplastics Detection Project</li>
+  </ul>
+</div>
+
+<!-- Q4 2024 -->
+<div style="background: rgba(0, 0, 0, 0.5); border: 1px solid rgba(0, 255, 136, 0.3); border-radius: 10px; padding: 20px; position: relative;">
+  <div style="position: absolute; top: -10px; left: 20px; background: rgba(0, 255, 136, 0.5); color: #000; padding: 5px 15px; border-radius: 20px; font-size: 12px; font-weight: bold; font-family: 'Courier New', monospace;">📅 UPCOMING</div>
+  <h4 style="color: #00ff88; margin: 15px 0 10px 0; font-size: 16px;">Q4 2024</h4>
+  <ul style="color: #ffffff; margin: 0; padding-left: 20px; font-size: 13px; line-height: 1.8;">
+    <li>DSA in C++ (Udemy)</li>
+    <li>Advanced Data Science</li>
+    <li>Full-Stack Development</li>
+    <li>Freshathon Competition</li>
+  </ul>
+</div>
+```
+
+* * *
+
+## 🤝 $ connect --show\_links
+
+```
+<h3 style="color: #00ff88; margin: 0 0 25px 0; font-family: 'Courier New', monospace;">🔗 Connect With Me</h3>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px;">
+  
+  <a href="https://linkedin.com/in/kuboja-mabuba-9202b82b6" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 10px; background: rgba(0, 255, 136, 0.1); border: 2px solid #00ff88; padding: 12px 25px; border-radius: 25px; transition: all 0.3s ease;" onmouseover="this.style.background='#00ff88'; this.querySelector('span').style.color='#000';" onmouseout="this.style.background='rgba(0, 255, 136, 0.1)'; this.querySelector('span').style.color='#00ff88';">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25"/>
+    <span style="color: #00ff88; font-weight: bold;">LinkedIn</span>
+  </a>
+  
+  <a href="https://github.com/kubojah-dan" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 10px; background: rgba(0, 255, 136, 0.1); border: 2px solid #00ff88; padding: 12px 25px; border-radius: 25px; transition: all 0.3s ease;" onmouseover="this.style.background='#00ff88'; this.querySelector('span').style.color='#000';" onmouseout="this.style.background='rgba(0, 255, 136, 0.1)'; this.querySelector('span').style.color='#00ff88';">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="25" width="25"/>
+    <span style="color: #00ff88; font-weight: bold;">GitHub</span>
+  </a>
+  
+  <a href="https://kaggle.com/kuboja daniel" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 10px; background: rgba(0, 255, 136, 0.1); border: 2px solid #00ff88; padding: 12px 25px; border-radius: 25px; transition: all 0.3s ease;" onmouseover="this.style.background='#00ff88'; this.querySelector('span').style.color='#000';" onmouseout="this.style.background='rgba(0, 255, 136, 0.1)'; this.querySelector('span').style.color='#00ff88';">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="25" width="25"/>
+    <span style="color: #00ff88; font-weight: bold;">Kaggle</span>
+  </a>
+  
+  <a href="https://www.codechef.com/users/kuboja_014" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 10px; background: rgba(0, 255, 136, 0.1); border: 2px solid #00ff88; padding: 12px 25px; border-radius: 25px; transition: all 0.3s ease;" onmouseover="this.style.background='#00ff88'; this.querySelector('span').style.color='#000';" onmouseout="this.style.background='rgba(0, 255, 136, 0.1)'; this.querySelector('span').style.color='#00ff88';">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="25" width="25"/>
+    <span style="color: #00ff88; font-weight: bold;">CodeChef</span>
+  </a>
+  
+  <a href="https://www.leetcode.com/kuboja_daniel014" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 10px; background: rgba(0, 255, 136, 0.1); border: 2px solid #00ff88; padding: 12px 25px; border-radius: 25px; transition: all 0.3s ease;" onmouseover="this.style.background='#00ff88'; this.querySelector('span').style.color='#000';" onmouseout="this.style.background='rgba(0, 255, 136, 0.1)'; this.querySelector('span').style.color='#00ff88';">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25" width="25"/>
+    <span style="color: #00ff88; font-weight: bold;">LeetCode</span>
+  </a>
+  
+</div>
+
+<!-- Email Contact -->
+<div style="background: rgba(0, 255, 136, 0.1); border: 1px solid #00ff88; border-radius: 10px; padding: 15px; margin-top: 20px;">
+  <p style="color: #00cc66; margin: 0; font-size: 13px; font-family: 'Courier New', monospace;">📧 Email: <a href="mailto:kubodan014@gmail.com" style="color: #00ff88; text-decoration: none;">kubodan014@gmail.com</a></p>
+  <p style="color: #00cc66; margin: 5px 0 0 0; font-size: 13px; font-family: 'Courier New', monospace;">📱 Phone: +91 8452932842</p>
+</div>
+```
+
+* * *
+
+```
+<!-- Terminal Output Style Thank You -->
+<div style="font-family: 'Courier New', monospace; color: #00ff88; text-align: left; background: #000; padding: 15px; border-radius: 5px; border: 1px solid #00ff88;">
+  <div style="color: #00cc66; margin-bottom: 10px;">root@kuboja:~$ <span style="color: #ffffff;">cat thank_you.txt</span></div>
+  <div style="color: #ffffff; line-height: 1.8;">
+    <span style="color: #00ff88;">╔══════════════════════════════════════════════════════════╗</span><br>
+    <span style="color: #00ff88;">║</span>                                                          <span style="color: #00ff88;">║</span><br>
+    <span style="color: #00ff88;">║</span>  <span style="color: #ffffff;">Thanks for visiting my profile! 🙏</span>                    <span style="color: #00ff88;">║</span><br>
+    <span style="color: #00ff88;">║</span>                                                          <span style="color: #00ff88;">║</span><br>
+    <span style="color: #00ff88;">║</span>  <span style="color: #00cc66;">Let's connect and build something amazing together! 🚀</span>  <span style="color: #00ff88;">║</span><br>
+    <span style="color: #00ff88;">║</span>                                                          <span style="color: #00ff88;">║</span><br>
+    <span style="color: #00ff88;">╚══════════════════════════════════════════════════════════╝</span><br>
+  </div>
+  <div style="margin-top: 15px; color: #00ff88;">
+    root@kuboja:~$ <span class="cursor">_</span>
+  </div>
+</div>
+```
+
+▶ System Status: ONLINE | ▶ Uptime: 24/7 | ▶ Response: FAST
+
+Built with 💚 by Kuboja Daniel | Data Scientist & ML Engineer
+
+* * *
+
+  
+
+| PROJECT | DESCRIPTION | TECH STACK | STATUS |
+| --- | --- | --- | --- |
+| 
+🔬
+
+[Microplastics Detection](https://github.com/Dharanish99/SIH_Project_Research)
+
+\[ENVIRONMENTAL\_AI\]
+
+
+
+
+
+ | AI-powered system using CV & Deep Learning to detect and quantify microplastic pollution for sustainable water management. | 
+
+Python OpenCV PyTorch TensorFlow
+
+ | 75% Complete |
