@@ -3,9 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://kubojadanportfolio.vercel.app/" target="_blank">
+    <b>🌐 My Portfolio</b>
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kubojah-dan.kubojah-dan&"  />
@@ -28,28 +34,20 @@
 
 <br/>
 
-## 🤖 System Identity (Binary Scan)
-<p align="center">
+## 🤖 System Identity
+
+<div align="center">
 <pre>
-                01101101101101
-             01101111111111111111
-            1111111111111111111111
-            1111110011111100111111
-            1111111111111111111111
-            0011111000000001111100
-             00111111000011111100
-               0111111111111101
-          01111111111111111111111111
-        011111111111111111111111111111
-       11111111111111111111111111111111
-      1111100000111111111111110000011111
-      11110     01111111111111     01111
-      11110     01111111111111     01111
-      00000     01101100110110     00000
-                01101100110110
+011011011011011111111111111111111111111111111111111100111111001111111111111111111111111111
+0011111000000001111100001111110000111111111111111011111111111111111111111111111111111111
+1111000001111111111111100000111111111001111111111111001111111111110000011111111111111111
+00000011011001101100000001101100110110
 </pre>
-<p align="center"><b>[ IDENTITY VERIFIED: KUBOJA_DANIEL_NODE ]</b></p>
-</p>
+
+<b>[ IDENTITY VERIFIED: KUBOJA_DANIEL_NODE ]</b>
+</div>
+
+---
 
 ## 🌟 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=200&lines=About+Me" alt="About Me" />
 
@@ -165,32 +163,4 @@ Here are some highlights from my portfolio, showcasing my expertise in data scie
 <div align="center">
   <p>Thanks for visiting! Let's connect and build something amazing together. 🚀</p>
 </div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/7f/c2/a3/7fc2a3f8d7c5e5f8e6b5c5d5e5f8e6b5.jpg" 
-       alt="Kuboja Daniel" 
-       width="400" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=IDENTITY+VERIFIED;ACCESS+GRANTED" alt="Typing SVG" />
-</div>
-
----
-
-## 🤖 System Identity (Binary Scan)
-<p align="center">
-<pre>
-          0110111101101111
-        01111111111111111111
-       1111111111111111111111
-       1111110011111100111111
-       1111111111111111111111
-       1111110000000000111111
-       1111111100000000111111
-        01111111111111111110
-</pre>
-</p>
 
