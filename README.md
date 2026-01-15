@@ -39,6 +39,8 @@
 </div
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kubojah-dan&label=Profile%20views&color=0e75b6&style=flat" alt="kubojah-dan" /> </p>
+
 <p>
    <img src="https://img.shields.io/badge/ABOUT_ME-00FF88?style=for-the-badge"/>
 </p>
