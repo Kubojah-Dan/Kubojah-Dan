@@ -33,7 +33,7 @@
 </p>
 
 <div align="center">
-  <a href="https://kubojadanportfolio.vercel.app/" target="_blank">
+  <a href="https://kuboja-portfolio.onrender.com" target="_blank">
     <b>🌐 My Portfolio</b>
   </a>
 </div>
