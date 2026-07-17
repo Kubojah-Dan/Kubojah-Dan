@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=680&lines=A+Passionate+Artificial+Intelligence+and+Machine+Learning+Expert;Turning+data+into+insights+%26+solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=680&lines=A+Passionate+AI+and+Machine+Learning+Expert;Turning+data+into+insights+%26+solutions"/>
 </div>
 
 ---
