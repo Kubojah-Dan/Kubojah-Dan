@@ -50,7 +50,7 @@
 <br/>
 
 $${\color{lightgreen}
-\textbf{Passionate AI & ML enthusiast focused on leveraging data and machine learning to develop solutions for complex real-world challenges.}
+\textbf{Passionate AI and ML enthusiast focused on leveraging data and machine learning to develop solutions for complex real-world challenges.}
 }$$
 $${\color{lightgreen}
 \textbf{I have a strong analytical mindset and skills in data science, machine learning, and programming.
