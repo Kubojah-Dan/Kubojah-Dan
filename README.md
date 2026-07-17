@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=680&lines=A+Passionate+Data+Scientist+and+Machine+Learning+Expert;Turning+data+into+insights+%26+solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=680&lines=A+Passionate+Artificial+Intelligence+and+Machine+Learning+Expert;Turning+data+into+insights+%26+solutions"/>
 </div>
 
 ---
@@ -50,7 +50,7 @@
 <br/>
 
 $${\color{lightgreen}
-\textbf{I am an aspiring Data Scientist passionate about using data to tackle complex issues.}
+\textbf{Passionate AI & ML enthusiast focused on leveraging data and machine learning to develop solutions for complex real-world challenges.}
 }$$
 $${\color{lightgreen}
 \textbf{I have a strong analytical mindset and skills in data science, machine learning, and programming.
