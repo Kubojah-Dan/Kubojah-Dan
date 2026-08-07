@@ -25,9 +25,13 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" 
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"
        alt="Kuboja Daniel"
        width="280" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"
+       alt="Kuboja Daniel"
+       width="280" />
+ 
   <br/>
   <sub><b>IDENTITY VERIFIED · NODE: KUBOJA_DANIEL</b></sub>
 </p>
