@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kubojah-Dan/profile/main/profile_bw.png" 
+  <img src="https://raw.githubusercontent.com/Kubojah-Dan/profile/main/profile_bw.png](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" 
        alt="Kuboja Daniel"
        width="280" />
   <br/>
